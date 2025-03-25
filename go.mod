@@ -1,4 +1,4 @@
-module github.com/AbhirajPatwa/url-shortener
+module github.com/AbhirajPatwa/BookStore-API
 
 go 1.24.1
 

@@ -2,8 +2,8 @@ package main
 
 import (
 	"net/http"
-	"github.com/AbhirajPatwa/url-shortener/config"
-	"github.com/AbhirajPatwa/url-shortener/controller"
+	"github.com/AbhirajPatwa/BookStore-API/config"
+	"github.com/AbhirajPatwa/BookStore-API/controller"
 	
 	"github.com/labstack/echo/v4"
 )

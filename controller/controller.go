@@ -3,7 +3,7 @@ package controller
 
 import (
 	"net/http"
-	"github.com/AbhirajPatwa/url-shortener/config"
+	"github.com/AbhirajPatwa/BookStore-API/config"
 
 	"github.com/labstack/echo/v4"
 )
